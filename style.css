@@ -1,0 +1,89 @@
+html, body {
+  margin: auto 0;
+  padding: 0; 
+  height: 100%;
+  width: 100%;
+
+}
+
+.categories {
+padding-left: 35%;
+padding-top: 10%;
+line-height:60%
+text-align: center;
+margin: 0 auto;
+border: 5px;
+font-family: Helvetica, sans-serif;
+font-size: 16pt;
+font-weight: normal;
+position:absolute;
+text-align: center;
+height:100%;
+}
+
+.sidebar {
+  position: fixed;
+  padding-left: 1%;
+  padding-top: 1%;
+  pointer-events: all;
+  z-index:10;
+  height:100%;
+}
+
+#morestuff {
+  position: absolute;
+  bottom: 0;
+  padding-left: 1%;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  height:100%;
+}
+
+
+
+h3 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+  color:#000000
+}
+
+
+a {
+font-family: Helvetica, Arial, sans-serif;
+font-size: 20px;
+font-weight: bold;
+line-height: 80%;
+color: black;
+text-decoration: none;
+}
+
+
+
+a:visited{
+color: black;
+position: absolute;
+}
+
+a:hover{
+  text-align: center;
+color:#000000; 
+text-decoration:underline; 
+font-size: 20;
+font-weight: normal;
+font-family: 'Times New Roman', Times, serif; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
